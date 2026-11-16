@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+# Node
+node_modules/
+# Secrets — never commit these
+.env
+*.pem
+*.key
+# Editors
+.vscode/
+.idea/
